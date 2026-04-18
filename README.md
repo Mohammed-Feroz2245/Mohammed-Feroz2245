@@ -21,4 +21,4 @@ I build **production-ready ML pipelines** and **business-focused analytics dashb
 
 📍 Berlin, Germany  
 📧 feroz13143@gmail.com  
-🔗 [LinkedIn](https://linkedin.com/in/mohammed-feroz-shaik) | [Resume]([your-cv-link](https://docs.google.com/document/d/1zDOYu_LH1mDqBZ7QZM6wB7H_Cjip384j/edit?usp=sharing&ouid=106052935240201742808&rtpof=true&sd=true))
+🔗 [LinkedIn](https://linkedin.com/in/mohammed-feroz-shaik) | [Resume](https://docs.google.com/document/d/1zDOYu_LH1mDqBZ7QZM6wB7H_Cjip384j/edit?usp=sharing&ouid=106052935240201742808&rtpof=true&sd=true)
