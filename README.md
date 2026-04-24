@@ -17,7 +17,7 @@ I build **production-ready ML pipelines** and **business-focused analytics dashb
 - Advanced MLOps (Kubernetes, monitoring)
 - German (A2 → B1)
 
-**Open to opportunities** in ML Engineering, Data Engineering, Data Analysis or MLOps roles in Berlin.
+**Open to opportunities** in ML Engineering, Data Analysis or MLOps roles in Berlin.
 
 📍 Berlin, Germany  
 📧 feroz13143@gmail.com  
